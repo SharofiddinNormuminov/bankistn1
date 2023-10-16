@@ -16,7 +16,7 @@ const account1 = {
     '2020-03-08T14:11:59.604Z',
     '2023-10-16T00:00:36.790Z',
   ],
-  currency: 'EUR',
+  currency: 'USD',
   locale: 'pt-PT',
 };
 
